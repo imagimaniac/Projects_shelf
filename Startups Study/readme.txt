@@ -1,1 +1,2 @@
-
+Hii Visitor...
+the startup.ipynb file consist of Exploratory data analysis of a dataset shared on Kaggle named as indianstartup.csv present in the same folder.
