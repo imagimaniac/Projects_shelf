@@ -4,7 +4,7 @@ Here we have investigated the handwritten digits dataset.
 # Sample images:
 <img src="Mnist.png">
 
-# Folowing 7 methods are used to classify the handwritten digits dataset.
+#### Folowing 7 methods are used to classify the handwritten digits dataset.
 
 
 * Method 1: KNN</h4>
