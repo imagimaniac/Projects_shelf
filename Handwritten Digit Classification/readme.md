@@ -1,4 +1,6 @@
-# Here we have investigated the handwritten digits dataset.
+#### Handwritten digits classifier
+
+Here we have investigated the handwritten digits dataset.
 # Sample images:
 <img src="Mnist.png">
 
